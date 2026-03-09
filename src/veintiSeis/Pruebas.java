@@ -1,3 +1,5 @@
+package veintiSeis;
+
 import java.util.ArrayList;
 
 public class Pruebas {

@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package veintiSeis;
 
+import java.util.Scanner;
 public class CincoSieteSiete {
 	static Scanner in = new Scanner(System.in);
 	public static void main(String[] args) {

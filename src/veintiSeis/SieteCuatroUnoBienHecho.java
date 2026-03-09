@@ -1,3 +1,5 @@
+package veintiSeis;
+
 /* solución creada por ChatGPT */
 import java.util.Scanner;
 
