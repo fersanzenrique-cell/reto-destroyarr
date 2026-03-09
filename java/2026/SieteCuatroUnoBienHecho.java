@@ -1,3 +1,4 @@
+/* solución creada por ChatGPT */
 import java.util.Scanner;
 
 public class SieteCuatroUnoBienHecho {
